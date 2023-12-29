@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",GAZI TV HD
-https://youtu.be/fDCTCydDvMw
+
 #EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",T sports HD
 http://172.26.1.3:8089/amrbd/T-Sports/chunks.m3u8?nimblesessionid=223001618
 #EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Gaan Bangla
@@ -218,6 +218,11 @@ http://index.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2015/F
 #EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", Fanstastic Four
 
 
+
+****************
+
+#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="xxx", tharki boss
+https://video-b.xhcdn.com/key=6kkYieqlB1t0-ZhOVvRQqA,end=1703880000/data=113.192.42.39-dvp/media=hls4/017/808/471/480p.av1.mp4.m3u8
 
 
 
