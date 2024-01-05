@@ -181,8 +181,9 @@ http://live.flixhub.net/hls/Sun-Bangla.m3u8
                                         ***KIDS***
 
 #EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="kids",disney hd
-http://itcnbd.live:8080/bkdisney/tracks-v1/seg-0-52506.hls.fmp4
-
+http://cdn1.discoveryftp.net/Movies/Tamil/2023/Mayagadu/Maayagadu.2023.1080p.UNCUT.HD.DUAL.x264.ESub-SkymoviesHD.tours.mkv
+#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="kids",horror
+http://cdn1.discoveryftp.net/Movies/Hindi/2023/Bhraanti%20-%20An%20illusion/Bhraanti%20-%20An%20illusion%20(2023)%201080p%20WEB%20DL%20-%20X264%20-%20AAC%20-%20E-Sub%20-%20DUSIcTv.mp4
 
 
 
