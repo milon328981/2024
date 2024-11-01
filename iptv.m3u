@@ -1,256 +1,929 @@
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",GAZI TV HD
-http://live.flixhub.net/hls/5026.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",T sports HD
-http://172.26.1.3:8089/amrbd/T-Sports/chunks.m3u8?nimblesessionid=223001618
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Gaan Bangla
-http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Jamuna Tv
-https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Independent Tv
-https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Ekattor TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Deepto TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Somoy tV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",atn bangla
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",channel i
-https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Channel 24
-https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Nagorik Tv
-http://live.flixhub.net/hls/NAGORIK-TV.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",BTV
-http://103.230.105.252:1935/live/btv/manifest.mpd
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Bangla Vission
-https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Bangla TV
-http://aanax.com:8080/live/F31513/0a3204ef/296842.ts
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Boishakhi
-https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Bijoy TV
-https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Ekhon TV
-https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Green TV
-https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Mohona TV
-https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",News 24
-https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",RTV
-https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",SATV
-https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Desh TV
-http://galaxyiptv.pro:8080/asimbutt/000423/178396
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",DBC
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",BD MOVIE 1
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",BD MOVIE 2
-http://live.flixhub.net/hls/Sony-Cinema.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Ananda TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",ATN Music
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",
-http://itcnbd.live:8080/bk62/tracks-a1/seg-0-93063.hls.fmp4
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Channel 9
-http://itcnbd.live:8080/bk4/tracks-a1/seg-0-102713.hls.fmp4
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Ekhuse Tv
-http://itcnbd.live:8080/bk65/tracks-v1/seg-0-93067.hls.fmp4
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",My TV
-http://itcnbd.live:8080/bk56/tracks-a1/seg-0-93137.hls.fmp4
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",NTV
-http://itcnbd.live:8080/bk54/tracks-a1/seg-0-86321.hls.fmp4
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="BANGLADESH",Maasranga
-http://172.26.1.3:8089/amrbd/Maasranga/chunks.m3u8
-
-
-
-                                    ****india bangla****
-
-
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Star Jalsha Sd
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Star Jalsha HD
-http://live.flixhub.net/hls/STAR-JALSHA.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Star Jalsha HD 2
-http://itcnbd.live:8080/bk30/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Star Jalsha HD 3
-http://172.26.1.3:8089/amrbd/Star-Jalsha/chunks.m3u8
-
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Star Jalsha HD 4
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Star Jalsha Global
-http://103.132.181.118:82/play/a001
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Zee Bangla HD
-http://live.flixhub.net/hls/ZEE-BANGLA-HD.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Zee Bangla 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Zee Bangla HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/himelhimu.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Zee Bangla HD SM
-http://172.26.1.3:8089/amrbd/ZeeBanglaHD/chunks.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Jalsha Movies
-http://itcnbd.live:8080/bk31/tracks-a1/seg-0-104243.hls.fmp4
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Jalsha Movies 2
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Jalsha Movies 3
-http://103.132.181.118:82/play/a004
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Jalsha Movies 4
-http://live.flixhub.net/hls/STAR-JALSHA-MOVIES.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Sony Aahat
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Sony Aahat
-http://103.132.181.118:82/play/a009
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Zee Bangla cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Zee Bangla cinema 2
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/zeebanglacinema-audio_208482_und=208000-video=247600.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Colors Bangla
-http://live.flixhub.net/hls/COLORS-BANGLA.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",Colors Bangla 2
-https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",
-http://103.132.181.118:82/play/a00n
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="INDIAN Bangla",
-http://live.flixhub.net/hls/Sun-Bangla.m3u8
-
-
-
-                                        ****Documentary****
-
-
-
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Documentary",
-
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Documentary",
-
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Documentary",
-
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Documentary",
-
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Documentary",
-
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Documentary",
-
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Documentary",
-
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Documentary",
-
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Documentary",
-
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Documentary",
-
-
-
-                                        ***HINDI***
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                       ***Sports***
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                        ***KIDS***
-
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="kids",disney hd
-http://cdn1.discoveryftp.net/Movies/Tamil/2023/Mayagadu/Maayagadu.2023.1080p.UNCUT.HD.DUAL.x264.ESub-SkymoviesHD.tours.mkv
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="kids",horror
-http://cdn1.discoveryftp.net/Movies/Hindi/2023/Bhraanti%20-%20An%20illusion/Bhraanti%20-%20An%20illusion%20(2023)%201080p%20WEB%20DL%20-%20X264%20-%20AAC%20-%20E-Sub%20-%20DUSIcTv.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                        ***Movie Serise***
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", avenger
-http://172.16.50.7/SAM-FTP-7/English%20Movies/%282011%29/Captain%20America-The%20First%20Avenger%20%282011%29%20720p%20%5BDual%20Audio%5D/Captain%20America-The%20First%20Avenger%20%282011%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", avenger 2
-http://index.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2015/Avengers%20Age%20of%20Ultron%20%282015%29%201080p%20Dual%20Audio%20%5BHindi%2BEnglish%5D/Avengers%20Age%20of%20Ultron%20%282015%29%201080p%20Dual%20Audio%20%5BHindi%2BEnglish%5D.mkv
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", avenger 3
-http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2018/Avengers%20Infinity%20War%20%282018%29%20IMAX%201080p%20BluRay%20%5BMulti%20Audio%5D%20%5BHin%2BEng%2BTam%2BTel%5D%20MSubs%20BD5.1%20x264/Avengers%20Infinity%20War%20%282018%29%20IMAX%201080p%20BluRay%20%5BMulti%20Audio%5D%20%5BHin%2BEng%2BTam%2BTel%5D%20MSubs%20BD5.1%20x264.mkv
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", avenger 4
-http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2019/Avengers%20Endgame%20%282019%29%20IMAX%201080p%20BluRay%20%5BMulti%20Audio%5D%20%5BHin%2BEng%2BTam%2BTel%5D%20ESub%20DD5.1%20x264/Avengers%20Endgame%20%282019%29%20IMAX%201080p%20BluRay%20%5BMulti%20Audio%5D%20%5BHin%2BEng%2BTam%2BTel%5D%20ESub%20DD5.1%20x264.mkv
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", avenger 1
-http://172.27.27.124/s1d1/Hindi-2023/Bholaa%20%282023%29/Bholaa.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264-OneLastTime.mkv
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", Fanstastic Four 2
-http://server2.ftpbd.net/FTP-2/English%20Movies/Dual-Audio/Movie%20Series/Fantastic%20Four%20%281994-2015%29%20Collection%20720p%20BluRay%20Hindi%20Eng/1.2%20Fantastic%20Four%20Rise%20Of%20The%20Silver%20Surfer%20%282007%29%20720p%20Hindi%20%28224kbps%29%20Eng%20%28384kbps%29%20ESUBS%20KartiKing.mkv
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", berlin 1
-http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Berlin%20%28TV%20Series%202023-%29%20%5BMulti%20Audio%5D%20%5BHin%2BEng%2BSpa%5D/Season%201%201080p/Berlin.S01E01.The.Energy.of.Love.1080p.x264.Hindi.English.Spanish.Msubs.MoviesMod.org.mkv
-http://index.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2015/Fantastic%20Four%20%282015%29%201080p%20BluRay%20Dual%20Audio%20%5BHindi%2BEnglish%5DSeedUpMovies/Fantastic%20Four%20%282015%29%201080p%20BluRay%20Dual%20Audio%20%5BHindi%2BEnglish%5DSeedUpMovies.mkv
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", Fainal 1
-http://server2.ftpbd.net/FTP-2/English%20Movies/Dual-Audio/Movie%20Series/Final%20Destination%20Collection%20%282000-2011%29%201080p%20BluRay%20%5BDual%20Audio%5D/Final%20Destination%202000%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%205.1%20-%20English%20DD%205.1%5D%20ESub.mkv
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", Fainal 2
-http://server2.ftpbd.net/FTP-2/English%20Movies/Dual-Audio/Movie%20Series/Final%20Destination%20Collection%20%282000-2011%29%201080p%20BluRay%20%5BDual%20Audio%5D/Final%20Destination%202%202003%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%205.1%20-%20English%20DD%205.1%5D%20ESub.mkv
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", Fainal 3
-http://server2.ftpbd.net/FTP-2/English%20Movies/Dual-Audio/Movie%20Series/Final%20Destination%20Collection%20%282000-2011%29%201080p%20BluRay%20%5BDual%20Audio%5D/Final%20Destination%203%202006%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%205.1%20-%20English%20DD%205.1%5D%20ESub.mkv
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", Fainal 4
-http://server2.ftpbd.net/FTP-2/English%20Movies/Dual-Audio/Movie%20Series/Final%20Destination%20Collection%20%282000-2011%29%201080p%20BluRay%20%5BDual%20Audio%5D/Final%20Destination%204%202009%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%202.0%20-%20English%205.1%5D%20ESub.mkv
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", Fainal 5
-http://server2.ftpbd.net/FTP-2/English%20Movies/Dual-Audio/Movie%20Series/Final%20Destination%20Collection%20%282000-2011%29%201080p%20BluRay%20%5BDual%20Audio%5D/Final%20Destination%205%202011%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%202.0%20-%20English%205.1%5D%20ESub.mkv
-
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", berlin 2
-http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Berlin%20%28TV%20Series%202023-%29%20%5BMulti%20Audio%5D%20%5BHin%2BEng%2BSpa%5D/Season%201%201080p/Berlin.S01E02.Anchor.and.Lobo.1080p.x264.Hindi.English.Spanish.Msubs.MoviesMod.org.mkv
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", berlin 3
-http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Berlin%20%28TV%20Series%202023-%29%20%5BMulti%20Audio%5D%20%5BHin%2BEng%2BSpa%5D/Season%201%201080p/Berlin.S01E03.Full.House.of.Embryos.1080p.x264.Hindi.English.Spanish.Msubs.MoviesMod.org.mkv
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", berlin 4
-http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Berlin%20%28TV%20Series%202023-%29%20%5BMulti%20Audio%5D%20%5BHin%2BEng%2BSpa%5D/Season%201%201080p/Berlin.S01E04.An.Aquarium.on.Your.Back.1080p.x264.Hindi.English.Spanish.Msubs.MoviesMod.org.mkv
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", berlin 5
-http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Berlin%20%28TV%20Series%202023-%29%20%5BMulti%20Audio%5D%20%5BHin%2BEng%2BSpa%5D/Season%201%201080p/Berlin.S01E05.After.Love.1080p.x264.Hindi.English.Spanish.Msubs.MoviesMod.org.mkv
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", berlin 6
-http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Berlin%20%28TV%20Series%202023-%29%20%5BMulti%20Audio%5D%20%5BHin%2BEng%2BSpa%5D/Season%201%201080p/Berlin.S01E06.Night.of.the.Lemons.1080p.x264.Hindi.English.Spanish.Msubs.MoviesMod.org.mkv
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", berlin 7
-http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Berlin%20%28TV%20Series%202023-%29%20%5BMulti%20Audio%5D%20%5BHin%2BEng%2BSpa%5D/Season%201%201080p/Berlin.S01E07.The.Last.Virgin.in.the.Western.World.1080p.x264.Hindi.English.Spanish.Msubs.MoviesMod.org.mkv
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="Movie serise", berlin 8
-http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Berlin%20%28TV%20Series%202023-%29%20%5BMulti%20Audio%5D%20%5BHin%2BEng%2BSpa%5D/Season%201%201080p/Berlin.S01E08.An.Endangered.Elephant.1080p.x264.Hindi.English.Spanish.Msubs.MoviesMod.org.mkv
-
-
-****************
-
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="xxx", tharki boss
-https://2565136607.tapecontent.net/radosgw/Y7mPlpZZGRtvPzK/W8_mzRM4oGPXsQbxHuMHoDdVKN8yCwdYqeJ-V-3oa2M_UumruxgeL5fnu4b53XX19cHqyZzlA1R5QMYvfbLfHkYSWCqRXlzbhcSp7GTdAdBq7rjNBo0ufdHmq8Vy3FGXAgbZwWsXDS_vm1CIp29jRbwLFESCqvGzWEffK1B2K4L6oubhU5RQGananVop28Xvv0HFAmQ9KQXygSRv0GVrE3UHRVzrMiTrz2xQtHu0dnfvzNYz5pFmN0OpgtdcwSItfjbV2yKB85HbW9d-j1rvDj8VngE_ZgsgGv4NI1zU_Wl-NZBNBWvkOlkdLFmk6u7uMBq0TCV2hLtzRGk3lv4ggICQK_1Gah00J8B6dQ/Pornx11.Com-Hot+Bhabhi+-+2023+-+Hindi+Uncut+Hot+Short+Film+-+NiksIndian-Desix11.Com.mp4?stream=1
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="" group-title="xxx", tharki boss
-https://861520049.tapecontent.net/radosgw/8ZKrDJBZ4QI8x1/w7JeDcpQMRRLTGcSzTX9LI30_UoYV2eqiKN2PJ7lo-FvotEER97AzXOFB_Syn6ZSWU9PHdvI9T-iysiPV4f7FS-F6YreoR1g16uum8WheMQ-Xz_w7kq5yOii3X8rTqmlHrgii54HljMtlRUR9sPXVeWMrznS8sMk4zWI_OpT6xgfqhWZ_6uHVuMS3XkIyXbB7zmfHtfp5wti_IrpbWjj9s3aIvuGxryXsdy34--aHELfDHFVuCNNg_nK9Yq0rRaqTz8fIOqyWys4P5tI3HvkuN2c38BCYQAAuZtjpn_aSy6ViyCqoP3gy4lAVGJRLn6c8jga9k1sratVrtlp160PSDVGccwtyxMN6RjYbWE88w0GFNkCyU_N7GXl1no/Pornx11.Com-Bahu+ucked+By+Horny+Sasur+-+2023+-+UNCUT+Hindi+Short+Film+-+NiksIndian-PornHubHD.Click.mp4?stream=1
-
-
+#EXTINF:-1,•●★--- Welcome ----★●•
+http://xtv.ooo:8080/live/milon555/milon555/245892.m3u8
+#EXTINF:-1,IND-Bangla: Zee Bangla HD
+http://xtv.ooo:8080/live/milon555/milon555/245893.m3u8
+#EXTINF:-1,BD-loc: Colors Bangla
+http://xtv.ooo:8080/live/milon555/milon555/245895.m3u8
+#EXTINF:-1,IND-Bangla: Zee Bangla Cinema
+http://xtv.ooo:8080/live/milon555/milon555/245897.m3u8
+#EXTINF:-1,IND-Bangla: Star Jalsa HD
+http://xtv.ooo:8080/live/milon555/milon555/245898.m3u8
+#EXTINF:-1,IND-Bangla: Jalsa Movies HD
+http://xtv.ooo:8080/live/milon555/milon555/245900.m3u8
+#EXTINF:-1,BD-loc: Gazi TV
+http://xtv.ooo:8080/live/milon555/milon555/245901.m3u8
+#EXTINF:-1,BD-loc: Channel 9
+http://xtv.ooo:8080/live/milon555/milon555/245902.m3u8
+#EXTINF:-1,BD-loc: NEWS 24
+http://xtv.ooo:8080/live/milon555/milon555/245903.m3u8
+#EXTINF:-1,BD-loc: Masranga HD
+http://xtv.ooo:8080/live/milon555/milon555/245904.m3u8
+#EXTINF:-1,BD-LOC: ATN News
+http://xtv.ooo:8080/live/milon555/milon555/245905.m3u8
+#EXTINF:-1,IND-Bangla: SUN Bangla
+http://xtv.ooo:8080/live/milon555/milon555/245906.m3u8
+#EXTINF:-1,BD-LOC: 71banglatv
+http://xtv.ooo:8080/live/milon555/milon555/245907.m3u8
+#EXTINF:-1,BD-LOC: Asian tv
+http://xtv.ooo:8080/live/milon555/milon555/245908.m3u8
+#EXTINF:-1,BD-LOC: ATN Bangla
+http://xtv.ooo:8080/live/milon555/milon555/245909.m3u8
+#EXTINF:-1,BD-LOC: Bangla Tv
+http://xtv.ooo:8080/live/milon555/milon555/245910.m3u8
+#EXTINF:-1,BD-LOC: RTV
+http://xtv.ooo:8080/live/milon555/milon555/245911.m3u8
+#EXTINF:-1,BD-LOC: channel I
+http://xtv.ooo:8080/live/milon555/milon555/245913.m3u8
+#EXTINF:-1,BD-LOC: Dbc News
+http://xtv.ooo:8080/live/milon555/milon555/245914.m3u8
+#EXTINF:-1,BD | EKATTOR TV HD
+http://xtv.ooo:8080/live/milon555/milon555/245915.m3u8
+#EXTINF:-1,BD-LOC: independent
+http://xtv.ooo:8080/live/milon555/milon555/245916.m3u8
+#EXTINF:-1,BD-LOC: jamuna tv
+http://xtv.ooo:8080/live/milon555/milon555/245917.m3u8
+#EXTINF:-1,BD-LOC: R PLUS
+http://xtv.ooo:8080/live/milon555/milon555/245918.m3u8
+#EXTINF:-1,BD-loc: Mohona tv
+http://xtv.ooo:8080/live/milon555/milon555/245920.m3u8
+#EXTINF:-1,BD-loc: DHOOM MUSIC
+http://xtv.ooo:8080/live/milon555/milon555/245921.m3u8
+#EXTINF:-1,BD-loc: Btv world
+http://xtv.ooo:8080/live/milon555/milon555/245922.m3u8
+#EXTINF:-1,BD | BOISHAKHI TV HD
+http://xtv.ooo:8080/live/milon555/milon555/245923.m3u8
+#EXTINF:-1,BD-loc: ntv
+http://xtv.ooo:8080/live/milon555/milon555/245924.m3u8
+#EXTINF:-1,BD-loc: SOMOY tv NEWS
+http://xtv.ooo:8080/live/milon555/milon555/245925.m3u8
+#EXTINF:-1,BD-loc: Deepto tv
+http://xtv.ooo:8080/live/milon555/milon555/245927.m3u8
+#EXTINF:-1,BD-loc: Aakaash
+http://xtv.ooo:8080/live/milon555/milon555/245928.m3u8
+#EXTINF:-1,BD: Ananda TV
+http://xtv.ooo:8080/live/milon555/milon555/245929.m3u8
+#EXTINF:-1,BD-loc: BTV-
+http://xtv.ooo:8080/live/milon555/milon555/245930.m3u8
+#EXTINF:-1,BD-loc: Ruposhi Bangla
+http://xtv.ooo:8080/live/milon555/milon555/245932.m3u8
+#EXTINF:-1,BD-loc: sangeet bangla
+http://xtv.ooo:8080/live/milon555/milon555/245933.m3u8
+#EXTINF:-1,BD: GaanbAngla Tv
+http://xtv.ooo:8080/live/milon555/milon555/245935.m3u8
+#EXTINF:-1,bd-loc: Ekushey TV
+http://xtv.ooo:8080/live/milon555/milon555/245937.m3u8
+#EXTINF:-1,bd-loc: Nagorik tv
+http://xtv.ooo:8080/live/milon555/milon555/245939.m3u8
+#EXTINF:-1,bd-loc: SANGSAD BANGLADESH
+http://xtv.ooo:8080/live/milon555/milon555/245940.m3u8
+#EXTINF:-1,bd-loc: R PLUS GOLD
+http://xtv.ooo:8080/live/milon555/milon555/245941.m3u8
+#EXTINF:-1,BD | NEWS TIME TV
+http://xtv.ooo:8080/live/milon555/milon555/245942.m3u8
+#EXTINF:-1,BD: EKHON TV
+http://xtv.ooo:8080/live/milon555/milon555/245943.m3u8
+#EXTINF:-1,bd-loc: SA TV
+http://xtv.ooo:8080/live/milon555/milon555/245945.m3u8
+#EXTINF:-1,bd-loc: bijoy tv
+http://xtv.ooo:8080/live/milon555/milon555/245946.m3u8
+#EXTINF:-1,BD-Loc: channel S BD
+http://xtv.ooo:8080/live/milon555/milon555/245947.m3u8
+#EXTINF:-1,BD-Loc: Nexus TV
+http://xtv.ooo:8080/live/milon555/milon555/245949.m3u8
+#EXTINF:-1,Bd-loc: Tv9 bangla
+http://xtv.ooo:8080/live/milon555/milon555/245950.m3u8
+#EXTINF:-1,BD: MOVIE BANGLA
+http://xtv.ooo:8080/live/milon555/milon555/245951.m3u8
+#EXTINF:-1,BD: ENTER 10 BANGLA
+http://xtv.ooo:8080/live/milon555/milon555/245954.m3u8
+#EXTINF:-1,BD | DURONTO TV
+http://xtv.ooo:8080/live/milon555/milon555/245955.m3u8
+#EXTINF:-1,BD | BANGLA VISION
+http://xtv.ooo:8080/live/milon555/milon555/245957.m3u8
+#EXTINF:-1,SONY YAY!
+http://xtv.ooo:8080/live/milon555/milon555/245959.m3u8
+#EXTINF:-1,BD | NRB TV HD
+http://xtv.ooo:8080/live/milon555/milon555/245962.m3u8
+#EXTINF:-1,BD | MY TV
+http://xtv.ooo:8080/live/milon555/milon555/245964.m3u8
+#EXTINF:-1,BD | ATN MUSIC
+http://xtv.ooo:8080/live/milon555/milon555/245965.m3u8
+#EXTINF:-1,BD | DISCOVERY BANGLA
+http://xtv.ooo:8080/live/milon555/milon555/245966.m3u8
+#EXTINF:-1,NAT GEO BANGLA
+http://xtv.ooo:8080/live/milon555/milon555/245967.m3u8
+#EXTINF:-1,BD: TRAVELXP BANGLA
+http://xtv.ooo:8080/live/milon555/milon555/245968.m3u8
+#EXTINF:-1,BD: CHANNEL 24
+http://xtv.ooo:8080/live/milon555/milon555/245969.m3u8
+#EXTINF:-1,BD | SONY AATH
+http://xtv.ooo:8080/live/milon555/milon555/245989.m3u8
+#EXTINF:-1,BTV CTG
+http://xtv.ooo:8080/live/milon555/milon555/245990.m3u8
+#EXTINF:-1,ABP ANANDA
+http://xtv.ooo:8080/live/milon555/milon555/245991.m3u8
+#EXTINF:-1,NEWS 18 BANGLA
+http://xtv.ooo:8080/live/milon555/milon555/245992.m3u8
+#EXTINF:-1,JONMO BHUMI TV **
+http://xtv.ooo:8080/live/milon555/milon555/246001.m3u8
+#EXTINF:-1,BANGLA 21 TV
+http://xtv.ooo:8080/live/milon555/milon555/246003.m3u8
+#EXTINF:-1,BD | AMAR BANGLA
+http://xtv.ooo:8080/live/milon555/milon555/246007.m3u8
+#EXTINF:-1,BD-UK: ATN BANGLA
+http://xtv.ooo:8080/live/milon555/milon555/246010.m3u8
+#EXTINF:-1,BD: channel S UK
+http://xtv.ooo:8080/live/milon555/milon555/301102.m3u8
+#EXTINF:-1,IN: Republic Bangla
+http://xtv.ooo:8080/live/milon555/milon555/355824.m3u8
+
+
+
+#EXTINF:-1,*** WellCome ***
+http://xtv.ooo:8080/live/milon555/milon555/26014.m3u8
+#EXTINF:-1,PK: PTV SPORTS
+http://xtv.ooo:8080/live/milon555/milon555/167567.m3u8
+#EXTINF:-1,PK: PTV SPORTS HD
+http://xtv.ooo:8080/live/milon555/milon555/217968.m3u8
+#EXTINF:-1,PK | Geo Super HD
+http://xtv.ooo:8080/live/milon555/milon555/167568.m3u8
+#EXTINF:-1,PK: TEN SPORTS
+http://xtv.ooo:8080/live/milon555/milon555/167569.m3u8
+#EXTINF:-1,T20 WORLD CUP 01
+http://xtv.ooo:8080/live/milon555/milon555/219643.m3u8
+#EXTINF:-1,PK: A Sports HD (Server 1)
+http://xtv.ooo:8080/live/milon555/milon555/219689.m3u8
+#EXTINF:-1,PK: A Sports HD (Server 2)
+http://xtv.ooo:8080/live/milon555/milon555/221417.m3u8
+#EXTINF:-1,IN | Sony Ten 1 HD
+http://xtv.ooo:8080/live/milon555/milon555/167570.m3u8
+#EXTINF:-1,IN | Sony Ten 2 HD
+http://xtv.ooo:8080/live/milon555/milon555/167571.m3u8
+#EXTINF:-1,IN | Sony Ten 3 HD
+http://xtv.ooo:8080/live/milon555/milon555/167572.m3u8
+#EXTINF:-1,IN: Sony Ten 4
+http://xtv.ooo:8080/live/milon555/milon555/167595.m3u8
+#EXTINF:-1,CRI: Ten Cricket
+http://xtv.ooo:8080/live/milon555/milon555/167587.m3u8
+#EXTINF:-1,IN: STAR SPORTS 1 Hindi
+http://xtv.ooo:8080/live/milon555/milon555/167573.m3u8
+#EXTINF:-1,IN: Star Sports tamil 1
+http://xtv.ooo:8080/live/milon555/milon555/167574.m3u8
+#EXTINF:-1,IN | Star Sports 1 HD
+http://xtv.ooo:8080/live/milon555/milon555/167575.m3u8
+#EXTINF:-1,IN | Star Sports 2 HD
+http://xtv.ooo:8080/live/milon555/milon555/167576.m3u8
+#EXTINF:-1,IN | Star Sports 3 HD
+http://xtv.ooo:8080/live/milon555/milon555/167577.m3u8
+#EXTINF:-1,IN | STAR SPORTS SELECT 1
+http://xtv.ooo:8080/live/milon555/milon555/167578.m3u8
+#EXTINF:-1,IN | STAR SPORTS SELECT 2
+http://xtv.ooo:8080/live/milon555/milon555/167579.m3u8
+#EXTINF:-1,IN | SONY TEN 5
+http://xtv.ooo:8080/live/milon555/milon555/167580.m3u8
+#EXTINF:-1,IN: Sports 18 (4K)
+http://xtv.ooo:8080/live/milon555/milon555/382205.m3u8
+#EXTINF:-1,IN | Astro Cricket HD
+http://xtv.ooo:8080/live/milon555/milon555/167581.m3u8
+#EXTINF:-1,SuperSport Cricket
+http://xtv.ooo:8080/live/milon555/milon555/167592.m3u8
+#EXTINF:-1,AU: FOX CRICKET 501
+http://xtv.ooo:8080/live/milon555/milon555/167593.m3u8
+#EXTINF:-1,UK: Sky Sports Cricket
+http://xtv.ooo:8080/live/milon555/milon555/167594.m3u8
+#EXTINF:-1,IN | Willow Xtra
+http://xtv.ooo:8080/live/milon555/milon555/167582.m3u8
+#EXTINF:-1,IN: Willow Cricket HD
+http://xtv.ooo:8080/live/milon555/milon555/167583.m3u8
+#EXTINF:-1,BS | beIN SPORT CRICKET
+http://xtv.ooo:8080/live/milon555/milon555/167584.m3u8
+#EXTINF:-1,IN: EUROSPORT HD
+http://xtv.ooo:8080/live/milon555/milon555/167585.m3u8
+#EXTINF:-1,IN: 1SPORTS
+http://xtv.ooo:8080/live/milon555/milon555/167586.m3u8
+#EXTINF:-1,IN: DD Sports
+http://xtv.ooo:8080/live/milon555/milon555/167588.m3u8
+#EXTINF:-1,T-SPORTS
+http://xtv.ooo:8080/live/milon555/milon555/167590.m3u8
+#EXTINF:-1,AFG: RTA SPORTS
+http://xtv.ooo:8080/live/milon555/milon555/167591.m3u8
+#EXTINF:-1,IND: jio Cricket
+http://xtv.ooo:8080/live/milon555/milon555/206297.m3u8
+#EXTINF:-1,UK: TNT Sport 2 CRICKET
+http://xtv.ooo:8080/live/milon555/milon555/206566.m3u8
+#EXTINF:-1,PK: MAQ TV CRICKET
+http://xtv.ooo:8080/live/milon555/milon555/207190.m3u8
+#EXTINF:-1,NZ: SKY Sport Cricket 3
+http://xtv.ooo:8080/live/milon555/milon555/217530.m3u8
+#EXTINF:-1,PK: FAST SPORTS
+http://xtv.ooo:8080/live/milon555/milon555/308225.m3u8
+#EXTINF:-1,StarzPlay CricLife 1
+http://xtv.ooo:8080/live/milon555/milon555/371469.m3u8
+#EXTINF:-1,StarzPlay CricLife 2
+http://xtv.ooo:8080/live/milon555/milon555/371470.m3u8
+#EXTINF:-1,StarzPlay CricLife 3
+http://xtv.ooo:8080/live/milon555/milon555/371471.m3u8
+#EXTINF:-1,•●★--- Welcome ----★●•
+http://xtv.ooo:8080/live/milon555/milon555/222338.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Cricket
+http://xtv.ooo:8080/live/milon555/milon555/238475.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Grand Stand
+http://xtv.ooo:8080/live/milon555/milon555/238476.m3u8
+#EXTINF:-1,DSTV: Super Sports PSL
+http://xtv.ooo:8080/live/milon555/milon555/238477.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Premier League
+http://xtv.ooo:8080/live/milon555/milon555/238478.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports La Liga
+http://xtv.ooo:8080/live/milon555/milon555/238479.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Football
+http://xtv.ooo:8080/live/milon555/milon555/238480.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Variety 1
+http://xtv.ooo:8080/live/milon555/milon555/238481.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Variety 2
+http://xtv.ooo:8080/live/milon555/milon555/238482.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Variety 3
+http://xtv.ooo:8080/live/milon555/milon555/238483.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Variety 4
+http://xtv.ooo:8080/live/milon555/milon555/238484.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Action
+http://xtv.ooo:8080/live/milon555/milon555/238485.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Rugby
+http://xtv.ooo:8080/live/milon555/milon555/238486.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Blitz
+http://xtv.ooo:8080/live/milon555/milon555/238487.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Golf
+http://xtv.ooo:8080/live/milon555/milon555/238488.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports Tennis
+http://xtv.ooo:8080/live/milon555/milon555/238489.m3u8
+#EXTINF:-1,Af | DSTV: Super Sports MotorSports
+http://xtv.ooo:8080/live/milon555/milon555/238490.m3u8
+#EXTINF:-1,Af | DSTV: ESPN 1
+http://xtv.ooo:8080/live/milon555/milon555/238491.m3u8
+#EXTINF:-1,Af | DSTV: ESPN 2
+http://xtv.ooo:8080/live/milon555/milon555/238492.m3u8
+#EXTINF:-1,Af | DSTV: SuperSport Maximo 1
+http://xtv.ooo:8080/live/milon555/milon555/238493.m3u8
+#EXTINF:-1,AF: WWE Superslam
+http://xtv.ooo:8080/live/milon555/milon555/383060.m3u8
+
+
+
+#EXTINF:-1,IN | Zoom TV
+http://xtv.ooo:8080/live/milon555/milon555/66190.m3u8
+#EXTINF:-1,IN | 9xm
+http://xtv.ooo:8080/live/milon555/milon555/66192.m3u8
+#EXTINF:-1,IN | B4u Music
+http://xtv.ooo:8080/live/milon555/milon555/66203.m3u8
+#EXTINF:-1,IN | 9x Jalwa
+http://xtv.ooo:8080/live/milon555/milon555/66226.m3u8
+#EXTINF:-1,IN | MTV BEAT
+http://xtv.ooo:8080/live/milon555/milon555/66273.m3u8
+#EXTINF:-1,IN | YRF MUSIC
+http://xtv.ooo:8080/live/milon555/milon555/383530.m3u8
+#EXTINF:-1,IN | SHOWBOX MUSIC
+http://xtv.ooo:8080/live/milon555/milon555/383529.m3u8
+#EXTINF:-1,ind-pun: Pittara TV
+http://xtv.ooo:8080/live/milon555/milon555/66285.m3u8
+#EXTINF:-1,IN | 9x Tashan
+http://xtv.ooo:8080/live/milon555/milon555/66289.m3u8
+#EXTINF:-1,***IND: DRAMA (4K ULTRA HD)***
+http://xtv.ooo:8080/live/milon555/milon555/109946.m3u8
+#EXTINF:-1,Colors (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109947.m3u8
+#EXTINF:-1,SONY SET (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109948.m3u8
+#EXTINF:-1,Star Plus (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109949.m3u8
+#EXTINF:-1,ZEE TV (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109950.m3u8
+#EXTINF:-1,STAR BHARAT (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109951.m3u8
+#EXTINF:-1,&tv (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109952.m3u8
+#EXTINF:-1,SONY SAB (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109953.m3u8
+#EXTINF:-1,IN: Mastii
+http://xtv.ooo:8080/live/milon555/milon555/112988.m3u8
+#EXTINF:-1,IN: UTV Bindass
+http://xtv.ooo:8080/live/milon555/milon555/112993.m3u8
+#EXTINF:-1,IND-Punjabi: PTC MUSIC
+http://xtv.ooo:8080/live/milon555/milon555/153373.m3u8
+#EXTINF:-1,MUSIC INDIA
+http://xtv.ooo:8080/live/milon555/milon555/190028.m3u8
+#EXTINF:-1,IN: Boogle Bollywood
+http://xtv.ooo:8080/live/milon555/milon555/206045.m3u8
+#EXTINF:-1,IND: MTV HD +
+http://xtv.ooo:8080/live/milon555/milon555/206049.m3u8
+#EXTINF:-1,IND: MTV India
+http://xtv.ooo:8080/live/milon555/milon555/206054.m3u8
+#EXTINF:-1,IN | BBC EART HINDI
+http://xtv.ooo:8080/live/milon555/milon555/206278.m3u8
+#EXTINF:-1,IN | BBC EART ENG
+http://xtv.ooo:8080/live/milon555/milon555/383184.m3u8
+#EXTINF:-1,IND: Animal Planet Hindi
+http://xtv.ooo:8080/live/milon555/milon555/206282.m3u8
+#EXTINF:-1,IN: Animal Planet FHD ENG
+http://xtv.ooo:8080/live/milon555/milon555/206283.m3u8
+#EXTINF:-1,IND: Nat Geo HD Hindi
+http://xtv.ooo:8080/live/milon555/milon555/206285.m3u8
+#EXTINF:-1,IND: Nat Geo HD ENG
+http://xtv.ooo:8080/live/milon555/milon555/383183.m3u8
+#EXTINF:-1,IN | Nat Geo Wild HINDI
+http://xtv.ooo:8080/live/milon555/milon555/206286.m3u8
+#EXTINF:-1,IN | Nat Geo Wild FHD ENG
+http://xtv.ooo:8080/live/milon555/milon555/206587.m3u8
+#EXTINF:-1,IND: Discovery Hindi
+http://xtv.ooo:8080/live/milon555/milon555/206287.m3u8
+#EXTINF:-1,IND: Discovery Science
+http://xtv.ooo:8080/live/milon555/milon555/206289.m3u8
+#EXTINF:-1,IND: Investigation Discovery Hindi
+http://xtv.ooo:8080/live/milon555/milon555/206291.m3u8
+#EXTINF:-1,IND: Discovery Turbo
+http://xtv.ooo:8080/live/milon555/milon555/206292.m3u8
+#EXTINF:-1,IND: Travel XP Eng
+http://xtv.ooo:8080/live/milon555/milon555/206279.m3u8
+#EXTINF:-1,IND: Travel_XP Hindi
+http://xtv.ooo:8080/live/milon555/milon555/206280.m3u8
+#EXTINF:-1,IND: History 18 Hindi
+http://xtv.ooo:8080/live/milon555/milon555/206294.m3u8
+#EXTINF:-1,IN: History TV 18 FHD
+http://xtv.ooo:8080/live/milon555/milon555/206295.m3u8
+#EXTINF:-1,IND: Epic
+http://xtv.ooo:8080/live/milon555/milon555/206296.m3u8
+#EXTINF:-1,IND:PB: Balle Balle
+http://xtv.ooo:8080/live/milon555/milon555/219495.m3u8
+#EXTINF:-1,IND:PB: Wah Punjabi
+http://xtv.ooo:8080/live/milon555/milon555/219496.m3u8
+#EXTINF:-1,IND: ZING
+http://xtv.ooo:8080/live/milon555/milon555/219497.m3u8
+#EXTINF:-1,***IND: MOVIES (4K ULTRA HD)***
+http://xtv.ooo:8080/live/milon555/milon555/109954.m3u8
+#EXTINF:-1,&pictures (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109955.m3u8
+#EXTINF:-1,SONY MAX (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109957.m3u8
+#EXTINF:-1,ZEE CINEMA (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109958.m3u8
+#EXTINF:-1,Star GOLD (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109959.m3u8
+#EXTINF:-1,Star Gold Select (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109960.m3u8
+#EXTINF:-1,Movies_active (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109961.m3u8
+#EXTINF:-1,& flix (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109962.m3u8
+#EXTINF:-1,& Prive (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109963.m3u8
+#EXTINF:-1,& Xplorer (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109964.m3u8
+#EXTINF:-1,MN+ (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109965.m3u8
+#EXTINF:-1,SONY PIX (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109966.m3u8
+#EXTINF:-1,Movies Now (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109968.m3u8
+#EXTINF:-1,STAR MOVIES (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109970.m3u8
+#EXTINF:-1,STAR WORLD (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109971.m3u8
+#EXTINF:-1,DISCOVERY (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109974.m3u8
+#EXTINF:-1,ANIMAL PLANET (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109975.m3u8
+#EXTINF:-1,NAT Geo Wild (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109976.m3u8
+#EXTINF:-1,National GEO (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109977.m3u8
+#EXTINF:-1,Sony BBC Ear (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109978.m3u8
+#EXTINF:-1,FOX Life (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109980.m3u8
+#EXTINF:-1,IN: COLORS CINEPLEX (4K)
+http://xtv.ooo:8080/live/milon555/milon555/206315.m3u8
+#EXTINF:-1,IN: Jalsha Movies (4K)*
+http://xtv.ooo:8080/live/milon555/milon555/206320.m3u8
+#EXTINF:-1,***IND: SPORTS (4K ULTRA HD)***
+http://xtv.ooo:8080/live/milon555/milon555/109982.m3u8
+#EXTINF:-1,Sony Ten 1 (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109983.m3u8
+#EXTINF:-1,Sony Ten 2 (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109984.m3u8
+#EXTINF:-1,Sony Ten 3 (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109985.m3u8
+#EXTINF:-1,Star Sport 1 HINDI (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109986.m3u8
+#EXTINF:-1,Star Sports 1 (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109987.m3u8
+#EXTINF:-1,Star Sports 2 (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109988.m3u8
+#EXTINF:-1,SONY SIX (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109992.m3u8
+#EXTINF:-1,Star Sports Select 1 (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109993.m3u8
+#EXTINF:-1,Star Sports Select 2 (4K)
+http://xtv.ooo:8080/live/milon555/milon555/109994.m3u8
+#EXTINF:-1,IN: EUROPSPORT (4K)
+http://xtv.ooo:8080/live/milon555/milon555/206324.m3u8
+#EXTINF:-1,***** IN | India *****
+http://xtv.ooo:8080/live/milon555/milon555/66161.m3u8
+#EXTINF:-1,IN | Zee TV
+http://xtv.ooo:8080/live/milon555/milon555/221250.m3u8
+#EXTINF:-1,IN | Zee TV HD
+http://xtv.ooo:8080/live/milon555/milon555/66162.m3u8
+#EXTINF:-1,IN | Zee TV [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/66163.m3u8
+#EXTINF:-1,IN | Sony SET (TATAPLAY)
+http://xtv.ooo:8080/live/milon555/milon555/221251.m3u8
+#EXTINF:-1,IN | Sony SET HD
+http://xtv.ooo:8080/live/milon555/milon555/66164.m3u8
+#EXTINF:-1,IN | Sony SET [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/66165.m3u8
+#EXTINF:-1,IN | Star Plus
+http://xtv.ooo:8080/live/milon555/milon555/221252.m3u8
+#EXTINF:-1,IN | Star Plus HD
+http://xtv.ooo:8080/live/milon555/milon555/66166.m3u8
+#EXTINF:-1,IN | Star Plus FHD
+http://xtv.ooo:8080/live/milon555/milon555/66208.m3u8
+#EXTINF:-1,IN | Colors
+http://xtv.ooo:8080/live/milon555/milon555/221254.m3u8
+#EXTINF:-1,IN | Colors HD
+http://xtv.ooo:8080/live/milon555/milon555/66167.m3u8
+#EXTINF:-1,IN | Colors [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/66168.m3u8
+#EXTINF:-1,IN | Star Bharat
+http://xtv.ooo:8080/live/milon555/milon555/221255.m3u8
+#EXTINF:-1,IN | Star Bharat HD
+http://xtv.ooo:8080/live/milon555/milon555/66170.m3u8
+#EXTINF:-1,IN | Star Bharat [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/66171.m3u8
+#EXTINF:-1,IN | Sony Sab
+http://xtv.ooo:8080/live/milon555/milon555/221256.m3u8
+#EXTINF:-1,IN | Sony Sab HD
+http://xtv.ooo:8080/live/milon555/milon555/66174.m3u8
+#EXTINF:-1,IN | Sony Sab UK*
+http://xtv.ooo:8080/live/milon555/milon555/66175.m3u8
+#EXTINF:-1,IN: SONY SAB [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/104194.m3u8
+#EXTINF:-1,IN | &Tv
+http://xtv.ooo:8080/live/milon555/milon555/221253.m3u8
+#EXTINF:-1,IN | &Tv HD
+http://xtv.ooo:8080/live/milon555/milon555/66172.m3u8
+#EXTINF:-1,IN | &Tv [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/66173.m3u8
+#EXTINF:-1,IN | STAR GOLD THRILLS
+http://xtv.ooo:8080/live/milon555/milon555/221258.m3u8
+#EXTINF:-1,IN | Star Gold HD
+http://xtv.ooo:8080/live/milon555/milon555/66177.m3u8
+#EXTINF:-1,IN | Star Gold [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/66178.m3u8
+#EXTINF:-1,IN | Star Gold Select
+http://xtv.ooo:8080/live/milon555/milon555/221257.m3u8
+#EXTINF:-1,IN | Star Gold Select FHD
+http://xtv.ooo:8080/live/milon555/milon555/66176.m3u8
+#EXTINF:-1,IND: Star Gold 2
+http://xtv.ooo:8080/live/milon555/milon555/106133.m3u8
+#EXTINF:-1,IN: STAR GOLD HD (TATASKY)
+http://xtv.ooo:8080/live/milon555/milon555/112982.m3u8
+#EXTINF:-1,IN | & Pictures
+http://xtv.ooo:8080/live/milon555/milon555/221260.m3u8
+#EXTINF:-1,IN | & Pictures HD
+http://xtv.ooo:8080/live/milon555/milon555/66181.m3u8
+#EXTINF:-1,IN | & Pictures [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/66183.m3u8
+#EXTINF:-1,IN | ZEE CINEMA FHD (TATASKY)
+http://xtv.ooo:8080/live/milon555/milon555/221261.m3u8
+#EXTINF:-1,IN | ZEE CINEMA HD
+http://xtv.ooo:8080/live/milon555/milon555/206307.m3u8
+#EXTINF:-1,IN | ZEE CINEMA [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/206308.m3u8
+#EXTINF:-1,IND: Zee Cinema USA
+http://xtv.ooo:8080/live/milon555/milon555/206268.m3u8
+#EXTINF:-1,IN: Dhamaka Movies B4U
+http://xtv.ooo:8080/live/milon555/milon555/66184.m3u8
+#EXTINF:-1,IN | Dhinchaak
+http://xtv.ooo:8080/live/milon555/milon555/383528.m3u8
+#EXTINF:-1,IN: Oscar Movies
+http://xtv.ooo:8080/live/milon555/milon555/66185.m3u8
+#EXTINF:-1,IN: STAR GOLD ROMANCE
+http://xtv.ooo:8080/live/milon555/milon555/66186.m3u8
+#EXTINF:-1,IN: COLORS CINEPLEX
+http://xtv.ooo:8080/live/milon555/milon555/104191.m3u8
+#EXTINF:-1,IN: COLORS CINEPLEX FHD
+http://xtv.ooo:8080/live/milon555/milon555/206310.m3u8
+#EXTINF:-1,IN | Sony Max (TATAPLAY)
+http://xtv.ooo:8080/live/milon555/milon555/221259.m3u8
+#EXTINF:-1,IN | Sony Max HD
+http://xtv.ooo:8080/live/milon555/milon555/66179.m3u8
+#EXTINF:-1,IN | Sony Max [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/66180.m3u8
+#EXTINF:-1,IN | SONY MAX 2
+http://xtv.ooo:8080/live/milon555/milon555/66189.m3u8
+#EXTINF:-1,IN | Zee Anmol Cinema
+http://xtv.ooo:8080/live/milon555/milon555/66187.m3u8
+#EXTINF:-1,IN | Colors Rishtey
+http://xtv.ooo:8080/live/milon555/milon555/66188.m3u8
+#EXTINF:-1,IN: Color Cineplex SuperHits
+http://xtv.ooo:8080/live/milon555/milon555/66199.m3u8
+#EXTINF:-1,IN | ZEE ACTION
+http://xtv.ooo:8080/live/milon555/milon555/66191.m3u8
+#EXTINF:-1,IN | ZEE CLASSIC
+http://xtv.ooo:8080/live/milon555/milon555/66201.m3u8
+#EXTINF:-1,IN: Bflix Movies
+http://xtv.ooo:8080/live/milon555/milon555/104190.m3u8
+#EXTINF:-1,IN | Sony Pal
+http://xtv.ooo:8080/live/milon555/milon555/104192.m3u8
+#EXTINF:-1,IND: BIG MAGIC
+http://xtv.ooo:8080/live/milon555/milon555/104198.m3u8
+#EXTINF:-1,IND: B4U Kadak
+http://xtv.ooo:8080/live/milon555/milon555/104199.m3u8
+#EXTINF:-1,IND: ABZY MOVIES
+http://xtv.ooo:8080/live/milon555/milon555/104200.m3u8
+#EXTINF:-1,IND: B4U Movies
+http://xtv.ooo:8080/live/milon555/milon555/104201.m3u8
+#EXTINF:-1,IND: ENTER 10 Movies
+http://xtv.ooo:8080/live/milon555/milon555/104202.m3u8
+#EXTINF:-1,IND: MANORANJAN TV
+http://xtv.ooo:8080/live/milon555/milon555/104203.m3u8
+#EXTINF:-1,IN | Zee Anmol
+http://xtv.ooo:8080/live/milon555/milon555/66357.m3u8
+#EXTINF:-1,IND: MANORANJAN MOVIES
+http://xtv.ooo:8080/live/milon555/milon555/104204.m3u8
+#EXTINF:-1,IN | Maha Movies
+http://xtv.ooo:8080/live/milon555/milon555/104206.m3u8
+#EXTINF:-1,IN: WOW CINEMA ONE
+http://xtv.ooo:8080/live/milon555/milon555/106132.m3u8
+#EXTINF:-1,IN: |UK| ZEE CINEMA UK
+http://xtv.ooo:8080/live/milon555/milon555/112970.m3u8
+#EXTINF:-1,IN: STAR UTSAV MOVIES
+http://xtv.ooo:8080/live/milon555/milon555/112971.m3u8
+#EXTINF:-1,IN: GOLDMINES
+http://xtv.ooo:8080/live/milon555/milon555/112972.m3u8
+#EXTINF:-1,IN: GOLDMINES BOLLYWOOD
+http://xtv.ooo:8080/live/milon555/milon555/112973.m3u8
+#EXTINF:-1,IN: DD National
+http://xtv.ooo:8080/live/milon555/milon555/112975.m3u8
+#EXTINF:-1,IN: ZEE TV CANADA
+http://xtv.ooo:8080/live/milon555/milon555/112976.m3u8
+#EXTINF:-1,IN: STAR UTSAV
+http://xtv.ooo:8080/live/milon555/milon555/112977.m3u8
+#EXTINF:-1,IND: DHAMAAL TV*
+http://xtv.ooo:8080/live/milon555/milon555/112978.m3u8
+#EXTINF:-1,IN | Sony Wah
+http://xtv.ooo:8080/live/milon555/milon555/112979.m3u8
+#EXTINF:-1,IND: Colors Cineplex Bollywood
+http://xtv.ooo:8080/live/milon555/milon555/112983.m3u8
+#EXTINF:-1,IN: MBC BOLLYWOOD*
+http://xtv.ooo:8080/live/milon555/milon555/112984.m3u8
+#EXTINF:-1,IN: GEM BOLLYWOOD
+http://xtv.ooo:8080/live/milon555/milon555/112986.m3u8
+#EXTINF:-1,IND: Dabangg
+http://xtv.ooo:8080/live/milon555/milon555/206270.m3u8
+#EXTINF:-1,IND: Zee Cinema SD
+http://xtv.ooo:8080/live/milon555/milon555/206271.m3u8
+#EXTINF:-1,IN: MOVIES ACTIVE FHD
+http://xtv.ooo:8080/live/milon555/milon555/206276.m3u8
+#EXTINF:-1,IN | ZEE AFLAM
+http://xtv.ooo:8080/live/milon555/milon555/206277.m3u8
+#EXTINF:-1,IN: ZEE Bollywood
+http://xtv.ooo:8080/live/milon555/milon555/207200.m3u8
+#EXTINF:-1,IN | Star World HD
+http://xtv.ooo:8080/live/milon555/milon555/66211.m3u8
+#EXTINF:-1,IN | Star Movies FHD
+http://xtv.ooo:8080/live/milon555/milon555/66213.m3u8
+#EXTINF:-1,IN | Sony Pix FHD
+http://xtv.ooo:8080/live/milon555/milon555/66224.m3u8
+#EXTINF:-1,IN | &Prive FHD
+http://xtv.ooo:8080/live/milon555/milon555/66228.m3u8
+#EXTINF:-1,IN | HBO HD
+http://xtv.ooo:8080/live/milon555/milon555/66229.m3u8
+#EXTINF:-1,IN | & Flix FHD
+http://xtv.ooo:8080/live/milon555/milon555/66236.m3u8
+#EXTINF:-1,IN: & Explor FHD
+http://xtv.ooo:8080/live/milon555/milon555/66241.m3u8
+#EXTINF:-1,IN: MNX FHD
+http://xtv.ooo:8080/live/milon555/milon555/66266.m3u8
+#EXTINF:-1,IN | Movies Now FHD
+http://xtv.ooo:8080/live/milon555/milon555/66271.m3u8
+#EXTINF:-1,IN | BBO HD
+http://xtv.ooo:8080/live/milon555/milon555/66277.m3u8
+#EXTINF:-1,IN | Fox Life FHD
+http://xtv.ooo:8080/live/milon555/milon555/66278.m3u8
+#EXTINF:-1,IN | Romedy Now
+http://xtv.ooo:8080/live/milon555/milon555/66282.m3u8
+#EXTINF:-1,IN | Zee Cafe HD
+http://xtv.ooo:8080/live/milon555/milon555/66287.m3u8
+#EXTINF:-1,IN | AXN HD
+http://xtv.ooo:8080/live/milon555/milon555/66313.m3u8
+#EXTINF:-1,IN | Star Movies Select HD
+http://xtv.ooo:8080/live/milon555/milon555/66315.m3u8
+#EXTINF:-1,IND: Bhojpuri_Cinema
+http://xtv.ooo:8080/live/milon555/milon555/269091.m3u8
+#EXTINF:-1,IND: GOLDMINES MOVIES
+http://xtv.ooo:8080/live/milon555/milon555/275337.m3u8
+#EXTINF:-1,IND: BBO CLASSIC
+http://xtv.ooo:8080/live/milon555/milon555/308228.m3u8
+#EXTINF:-1,24/7 MUSIC 18
+http://xtv.ooo:8080/live/milon555/milon555/362865.m3u8
+#EXTINF:-1,24/7 MUSIC 19
+http://xtv.ooo:8080/live/milon555/milon555/362866.m3u8
+#EXTINF:-1,24/7 MUSIC 20
+http://xtv.ooo:8080/live/milon555/milon555/362867.m3u8
+#EXTINF:-1,24/7 MUSIC 21
+http://xtv.ooo:8080/live/milon555/milon555/362868.m3u8
+#EXTINF:-1,IN: 24/7 MUSIC 01
+http://xtv.ooo:8080/live/milon555/milon555/219498.m3u8
+#EXTINF:-1,IN: 24/7 MUSIC 02
+http://xtv.ooo:8080/live/milon555/milon555/270503.m3u8
+#EXTINF:-1,IN: 24/7 MUSIC 03
+http://xtv.ooo:8080/live/milon555/milon555/270504.m3u8
+#EXTINF:-1,24/7 MUSIC 04
+http://xtv.ooo:8080/live/milon555/milon555/270505.m3u8
+#EXTINF:-1,24/7 MUSIC 05
+http://xtv.ooo:8080/live/milon555/milon555/270506.m3u8
+#EXTINF:-1,24/7 MUSIC 06
+http://xtv.ooo:8080/live/milon555/milon555/270507.m3u8
+#EXTINF:-1,24/7 MUSIC 07
+http://xtv.ooo:8080/live/milon555/milon555/270508.m3u8
+#EXTINF:-1,24/7 MUSIC 08
+http://xtv.ooo:8080/live/milon555/milon555/270509.m3u8
+#EXTINF:-1,24/7 MUSIC 09
+http://xtv.ooo:8080/live/milon555/milon555/270510.m3u8
+#EXTINF:-1,24/7 MUSIC 10
+http://xtv.ooo:8080/live/milon555/milon555/270511.m3u8
+#EXTINF:-1,24/7 MUSIC 11
+http://xtv.ooo:8080/live/milon555/milon555/270512.m3u8
+#EXTINF:-1,24/7 MUSIC 12
+http://xtv.ooo:8080/live/milon555/milon555/270513.m3u8
+#EXTINF:-1,24/7 MUSIC 13
+http://xtv.ooo:8080/live/milon555/milon555/270514.m3u8
+#EXTINF:-1,24/7 MUSIC 14
+http://xtv.ooo:8080/live/milon555/milon555/270515.m3u8
+#EXTINF:-1,24/7 MUSIC 15
+http://xtv.ooo:8080/live/milon555/milon555/270516.m3u8
+#EXTINF:-1,24/7 MUSIC 16
+http://xtv.ooo:8080/live/milon555/milon555/270517.m3u8
+#EXTINF:-1,24/7 MUSIC 17
+http://xtv.ooo:8080/live/milon555/milon555/270518.m3u8
+#EXTINF:-1,DOC | NAT GEO WILD Safari
+http://xtv.ooo:8080/live/milon555/milon555/363003.m3u8
+#EXTINF:-1,DOC | Nat Geo Wild and Worlds Deadliest
+http://xtv.ooo:8080/live/milon555/milon555/363004.m3u8
+#EXTINF:-1,DOC | Nat Geo Wild Newest Clips
+http://xtv.ooo:8080/live/milon555/milon555/363005.m3u8
+#EXTINF:-1,DOC | Nat Geo Wild NEWS
+http://xtv.ooo:8080/live/milon555/milon555/363006.m3u8
+#EXTINF:-1,DOC | Wildlife HINDI
+http://xtv.ooo:8080/live/milon555/milon555/363002.m3u8
+#EXTINF:-1,IN: Dangal 2
+http://xtv.ooo:8080/live/milon555/milon555/356002.m3u8
+#EXTINF:-1,IN: Dangal
+http://xtv.ooo:8080/live/milon555/milon555/355655.m3u8
+#EXTINF:-1,IND: DHINCHAAK
+http://xtv.ooo:8080/live/milon555/milon555/374980.m3u8
+#EXTINF:-1,IN: Manoranjan Grand
+http://xtv.ooo:8080/live/milon555/milon555/355999.m3u8
+#EXTINF:-1,IN: B4U Bhojpuri
+http://xtv.ooo:8080/live/milon555/milon555/355988.m3u8
+#EXTINF:-1,IN: Shemaroo TV
+http://xtv.ooo:8080/live/milon555/milon555/355809.m3u8
+#EXTINF:-1,IN: Colors Infinity FHD
+http://xtv.ooo:8080/live/milon555/milon555/355571.m3u8
+#EXTINF:-1,•●★--- Welcome ----★●•
+http://xtv.ooo:8080/live/milon555/milon555/244361.m3u8
+#EXTINF:-1,IND:PB:  PB: PTC Punjabi
+http://xtv.ooo:8080/live/milon555/milon555/244362.m3u8
+#EXTINF:-1,IND: PB: Pop Pataka HD
+http://xtv.ooo:8080/live/milon555/milon555/244363.m3u8
+#EXTINF:-1,IND: PB: Brit Asia
+http://xtv.ooo:8080/live/milon555/milon555/244364.m3u8
+#EXTINF:-1,IND: MH1 Prime
+http://xtv.ooo:8080/live/milon555/milon555/244365.m3u8
+#EXTINF:-1,IND:PB:  PTC Gold
+http://xtv.ooo:8080/live/milon555/milon555/244366.m3u8
+#EXTINF:-1,IND: PB: Sangat TV
+http://xtv.ooo:8080/live/milon555/milon555/244367.m3u8
+#EXTINF:-1,IND:PB: PTC Chak De
+http://xtv.ooo:8080/live/milon555/milon555/244368.m3u8
+#EXTINF:-1,IND: Jus Punjabi
+http://xtv.ooo:8080/live/milon555/milon555/244369.m3u8
+#EXTINF:-1,IND:PB:  PTC News
+http://xtv.ooo:8080/live/milon555/milon555/244370.m3u8
+#EXTINF:-1,IND:PB: Pitara
+http://xtv.ooo:8080/live/milon555/milon555/244371.m3u8
+#EXTINF:-1,IND: PB: Desi Channel
+http://xtv.ooo:8080/live/milon555/milon555/244372.m3u8
+#EXTINF:-1,IND: HINDI_Chakde TV HD
+http://xtv.ooo:8080/live/milon555/milon555/244373.m3u8
+#EXTINF:-1,IND:PB: mh1_Shraddha
+http://xtv.ooo:8080/live/milon555/milon555/244374.m3u8
+#EXTINF:-1,IND:PB: Living_India_News
+http://xtv.ooo:8080/live/milon555/milon555/244375.m3u8
+#EXTINF:-1,IND:PB: JUSOne
+http://xtv.ooo:8080/live/milon555/milon555/244376.m3u8
+#EXTINF:-1,IND:PB: JUS24x7
+http://xtv.ooo:8080/live/milon555/milon555/244377.m3u8
+#EXTINF:-1,IND:PB: Chardikla_Time_TV
+http://xtv.ooo:8080/live/milon555/milon555/244378.m3u8
+#EXTINF:-1,IND:PB:  PTC Simran
+http://xtv.ooo:8080/live/milon555/milon555/244379.m3u8
+#EXTINF:-1,IND: PB: Hulchul TV
+http://xtv.ooo:8080/live/milon555/milon555/244380.m3u8
+#EXTINF:-1,IND:PB: PTC Dhol
+http://xtv.ooo:8080/live/milon555/milon555/244381.m3u8
+#EXTINF:-1,IND:PB: PTC Music
+http://xtv.ooo:8080/live/milon555/milon555/244382.m3u8
+#EXTINF:-1,IND:PB: Balle Balle
+http://xtv.ooo:8080/live/milon555/milon555/244383.m3u8
+#EXTINF:-1,IND:PB: Wah Punjabi
+http://xtv.ooo:8080/live/milon555/milon555/244384.m3u8
+#EXTINF:-1,IND:PB: World Punjab
+http://xtv.ooo:8080/live/milon555/milon555/244385.m3u8
+#EXTINF:-1,IND:PB: Gurkebaani
+http://xtv.ooo:8080/live/milon555/milon555/244386.m3u8
+#EXTINF:-1,IND: PB: Garv Gurbani
+http://xtv.ooo:8080/live/milon555/milon555/244387.m3u8
+#EXTINF:-1,IND: PB: Gaunda Punjab TV
+http://xtv.ooo:8080/live/milon555/milon555/244388.m3u8
+#EXTINF:-1,IND:PB: Only Music
+http://xtv.ooo:8080/live/milon555/milon555/244389.m3u8
+#EXTINF:-1,IND:PB: ITV 24
+http://xtv.ooo:8080/live/milon555/milon555/244390.m3u8
+#EXTINF:-1,IND: PB: SWAG SADDA VAKRAA
+http://xtv.ooo:8080/live/milon555/milon555/244391.m3u8
+#EXTINF:-1,IND: PTC News (Sling)
+http://xtv.ooo:8080/live/milon555/milon555/244392.m3u8
+#EXTINF:-1,IND: PB: 7X Music HD
+http://xtv.ooo:8080/live/milon555/milon555/244393.m3u8
+#EXTINF:-1,IND: PB: Punjab Plus HD
+http://xtv.ooo:8080/live/milon555/milon555/244394.m3u8
+#EXTINF:-1,IND: PB: News Only
+http://xtv.ooo:8080/live/milon555/milon555/244395.m3u8
+#EXTINF:-1,IND: PB: Sri Patna Sahib
+http://xtv.ooo:8080/live/milon555/milon555/244396.m3u8
+#EXTINF:-1,IND: PB: Punjab1 TV
+http://xtv.ooo:8080/live/milon555/milon555/244397.m3u8
+#EXTINF:-1,IND: PB: Sangat TV
+http://xtv.ooo:8080/live/milon555/milon555/244398.m3u8
+#EXTINF:-1,IND: PB: Punjab Plus HD
+http://xtv.ooo:8080/live/milon555/milon555/244399.m3u8
+#EXTINF:-1,IND: PB: Steelbird Music
+http://xtv.ooo:8080/live/milon555/milon555/244400.m3u8
+#EXTINF:-1,IND: PB: Rangrez TV
+http://xtv.ooo:8080/live/milon555/milon555/244401.m3u8
+#EXTINF:-1,IND: PB: Hamdard TV
+http://xtv.ooo:8080/live/milon555/milon555/244402.m3u8
+#EXTINF:-1,IND: PB: Parvasi TV
+http://xtv.ooo:8080/live/milon555/milon555/244403.m3u8
+#EXTINF:-1,IND:PB: PBN Music
+http://xtv.ooo:8080/live/milon555/milon555/244404.m3u8
+#EXTINF:-1,IND: Jus Punjabi ( SLING )
+http://xtv.ooo:8080/live/milon555/milon555/244405.m3u8
+#EXTINF:-1,IND: Garv Punjab ( SLING )
+http://xtv.ooo:8080/live/milon555/milon555/244406.m3u8
+#EXTINF:-1,IND: Garv Punjab
+http://xtv.ooo:8080/live/milon555/milon555/244407.m3u8
+#EXTINF:-1,IND: PTC Punjabi ( SLING )
+http://xtv.ooo:8080/live/milon555/milon555/244408.m3u8
+#EXTINF:-1,IND: PTC Simran ( SLING )
+http://xtv.ooo:8080/live/milon555/milon555/244409.m3u8
+#EXTINF:-1,IND: PTC Punjabi Gold ( SLING )
+http://xtv.ooo:8080/live/milon555/milon555/244410.m3u8
+#EXTINF:-1,IND: PTC Dhol TV ( SLING )
+http://xtv.ooo:8080/live/milon555/milon555/244411.m3u8
+#EXTINF:-1,IND: News18 Punjab Haryana HP
+http://xtv.ooo:8080/live/milon555/milon555/244413.m3u8
+#EXTINF:-1,IND: DD Punjabi
+http://xtv.ooo:8080/live/milon555/milon555/244414.m3u8
+#EXTINF:-1,IND: Zee Punjabi
+http://xtv.ooo:8080/live/milon555/milon555/244415.m3u8
+#EXTINF:-1,IND: Etc Punjabi
+http://xtv.ooo:8080/live/milon555/milon555/244416.m3u8
+#EXTINF:-1,IND: Zee Punjab Haryana Himachal Pradesh
+http://xtv.ooo:8080/live/milon555/milon555/244417.m3u8
+#EXTINF:-1,IN: PTC Punjabi Gold
+http://xtv.ooo:8080/live/milon555/milon555/355565.m3u8
+#EXTINF:-1,IN: Fateh TV
+http://xtv.ooo:8080/live/milon555/milon555/355695.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,***KIDS***
+http://xtv.ooo:8080/live/milon555/milon555/106148.m3u8
+#EXTINF:-1,IN: Cartoon Network
+http://xtv.ooo:8080/live/milon555/milon555/150478.m3u8
+#EXTINF:-1,IN: Pogo
+http://xtv.ooo:8080/live/milon555/milon555/150483.m3u8
+#EXTINF:-1,IN: Cartoon Network HD+
+http://xtv.ooo:8080/live/milon555/milon555/153154.m3u8
+#EXTINF:-1,IN | Sony yay
+http://xtv.ooo:8080/live/milon555/milon555/26187.m3u8
+#EXTINF:-1,IN: Hungama**
+http://xtv.ooo:8080/live/milon555/milon555/150480.m3u8
+#EXTINF:-1,IN: Nick
+http://xtv.ooo:8080/live/milon555/milon555/150482.m3u8
+#EXTINF:-1,IND: Nick Junior
+http://xtv.ooo:8080/live/milon555/milon555/153156.m3u8
+#EXTINF:-1,Discovery kids
+http://xtv.ooo:8080/live/milon555/milon555/76723.m3u8
+#EXTINF:-1,IN: Disney Junior
+http://xtv.ooo:8080/live/milon555/milon555/153175.m3u8
+#EXTINF:-1,KIDS: Chutti Tv
+http://xtv.ooo:8080/live/milon555/milon555/150479.m3u8
+#EXTINF:-1,IN | DISNEY HD
+http://xtv.ooo:8080/live/milon555/milon555/167551.m3u8
+#EXTINF:-1,IN: NICK SONIC
+http://xtv.ooo:8080/live/milon555/milon555/34011.m3u8
+#EXTINF:-1,NICK HD+ [FHD]
+http://xtv.ooo:8080/live/milon555/milon555/76722.m3u8
+#EXTINF:-1,PK | Kids Zone+ HD
+http://xtv.ooo:8080/live/milon555/milon555/383066.m3u8
+#EXTINF:-1,24/7 MOTU PATLU 01
+http://xtv.ooo:8080/live/milon555/milon555/307079.m3u8
+#EXTINF:-1,24/7 MOTU PATLU 02
+http://xtv.ooo:8080/live/milon555/milon555/311373.m3u8
+#EXTINF:-1,24/7 SHIVA
+http://xtv.ooo:8080/live/milon555/milon555/342074.m3u8
+#EXTINF:-1,24/7 CHUCHU TV 
+http://xtv.ooo:8080/live/milon555/milon555/340807.m3u8
+#EXTINF:-1,24/7 Baal Veer 
+http://xtv.ooo:8080/live/milon555/milon555/340809.m3u8
+#EXTINF:-1,24/7 Chacha Bhatija
+http://xtv.ooo:8080/live/milon555/milon555/311774.m3u8
+#EXTINF:-1,24/7 Wow Kids Action
+http://xtv.ooo:8080/live/milon555/milon555/314753.m3u8
+#EXTINF:-1,24/7 Vir The Robot Boy
+http://xtv.ooo:8080/live/milon555/milon555/314754.m3u8
+#EXTINF:-1,KIDS: PINK PANTHER 24/7
+http://xtv.ooo:8080/live/milon555/milon555/301503.m3u8
+#EXTINF:-1,KIDS: CHU CHU TV 24/7
+http://xtv.ooo:8080/live/milon555/milon555/301502.m3u8
+#EXTINF:-1,KIDS: Sonic 24/7
+http://xtv.ooo:8080/live/milon555/milon555/301500.m3u8
+#EXTINF:-1,KIDS: MR BEAN (CARTOON) 24/7
+http://xtv.ooo:8080/live/milon555/milon555/301501.m3u8
+#EXTINF:-1,KIDS: CoComelon TV 24/7
+http://xtv.ooo:8080/live/milon555/milon555/301499.m3u8
+#EXTINF:-1,24/7 Kids: All Hail King Julien_ Exiled
+http://xtv.ooo:8080/live/milon555/milon555/301504.m3u8
+#EXTINF:-1,24/7 Kids: Rick And Morty
+http://xtv.ooo:8080/live/milon555/milon555/301505.m3u8
+#EXTINF:-1,24/7 Kids: Masha and the Bear
+http://xtv.ooo:8080/live/milon555/milon555/301506.m3u8
+#EXTINF:-1,24/7 Kids: Little Baby Bum
+http://xtv.ooo:8080/live/milon555/milon555/301507.m3u8
+#EXTINF:-1,24/7 Kids: The Boss Baby_ Back in Business
+http://xtv.ooo:8080/live/milon555/milon555/301508.m3u8
+#EXTINF:-1,24/7 Kids: Peppa Pig
+http://xtv.ooo:8080/live/milon555/milon555/301509.m3u8
+#EXTINF:-1,24/7 Kids: Blippi
+http://xtv.ooo:8080/live/milon555/milon555/301510.m3u8
+#EXTINF:-1,24/7 Kids: Kids: Gabby_s Dollhouse
+http://xtv.ooo:8080/live/milon555/milon555/301511.m3u8
+#EXTINF:-1,Oggy and the Cockroaches Hindi
+http://xtv.ooo:8080/live/milon555/milon555/308282.m3u8
+#EXTINF:-1,24/7 Chhota Bheem
+http://xtv.ooo:8080/live/milon555/milon555/315401.m3u8
+#EXTINF:-1,24/7 Tom & Jerry
+http://xtv.ooo:8080/live/milon555/milon555/329247.m3u8
+#EXTINF:-1,24/7 Scooby-Doo
+http://xtv.ooo:8080/live/milon555/milon555/329248.m3u8
+#EXTINF:-1,24/7 Booba
+http://xtv.ooo:8080/live/milon555/milon555/340803.m3u8
+#EXTINF:-1,24/7 KIDS SONGS HINDI
+http://xtv.ooo:8080/live/milon555/milon555/340802.m3u8
+#EXTINF:-1,24/7 BabyBus | Nursery Rhymes
+http://xtv.ooo:8080/live/milon555/milon555/340804.m3u8
+#EXTINF:-1,24/7 KIDS | MOV HINDI
+http://xtv.ooo:8080/live/milon555/milon555/362998.m3u8
+#EXTINF:-1,24/7 KIDS | MOVIES
+http://xtv.ooo:8080/live/milon555/milon555/362999.m3u8
+#EXTINF:-1,24/7 KIDS | MOVIES ENG 01
+http://xtv.ooo:8080/live/milon555/milon555/363000.m3u8
+#EXTINF:-1,24/7 KIDS | MOVIES ENG 02
+http://xtv.ooo:8080/live/milon555/milon555/363001.m3u8
 
 
